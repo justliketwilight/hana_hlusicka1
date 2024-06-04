@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: #d66d9b;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: #ace8d1;
+	padding: 20px;
+}
+.paragraf_2 {color:darkcyan; background-color: rgb(194, 159, 181)}
+.novi_blok {
+	background-color: rgb(128, 101, 118);
+	padding: 20px;
+	margin: 20px;
+	width; 50%
+}
+h1, h2 {
+	font-family:Gotham, "Helvetica Neue", Helvetica, arial, "sans-Serif"
+	color:#fc03a1;
+}
+
+span {color: rgb(125, 140, 101)}
+.pozadina{
+	background-image: url("slike/pozadina2.jpg")
+}
+.drugapozadina {
+	background-color: #aabfac;
+}
+a:link {
+	color: black;
+	background-color: #7297b0;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid#000000;
+}
+a:hover{
+	background-color: #8c959c;
+}
+img {
+	height: 200px;
+}
